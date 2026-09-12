@@ -32,4 +32,3 @@ def render(file: str):
         row = end[y * new_width : (y + 1) * new_width]
         print("".join(row))
     print()
-    
