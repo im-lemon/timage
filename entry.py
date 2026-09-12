@@ -20,21 +20,21 @@ else:
     if sys.argv[1] == "--help" or sys.argv[1] == "-h":
         cls()
         ht = """
-        Timage - A chafa-like image-displayer written in python.
+Timage - A chafa-like image-displayer written in python.
         
-        Timage is a chafa-like tool written in python, it uses code from my older project RenderTool (https://github.com/im-lemon/rendertool) alongside
-        a new system for detecting colours (AI-Assisted), the timage.ps1 shell script aliasses timage to itself upon first run, so you can do:
+Timage is a chafa-like tool written in python, it uses code from my older project RenderTool (https://github.com/im-lemon/rendertool) alongside
+a new system for detecting colours (AI-Assisted), the timage.ps1 shell script aliasses timage to itself upon first run, so you can do:
         
-        timage <img-file.jpg>
-        
-        instead of:
-        
-        ./timage <img-file.jpg> in that shell session.
-        
-        Additional info:
-        
-        GIT: https://github.com/im-lemon/timage.git
-        ISSUES: https://github.com/im-lemon/timage/issues/
+timage <img-file.jpg>
+
+instead of:
+
+./timage <img-file.jpg> in that shell session.
+
+Additional info:
+
+GIT: https://github.com/im-lemon/timage.git
+ISSUES: https://github.com/im-lemon/timage/issues/
         
         """
 
