@@ -5,4 +5,4 @@ a new system for detecting colours (AI-Assisted).
 
 Example:
 
-$HERE$
+[![timage demo](assets/timage-demo.png)](assets/timage-demo.mp4)
