@@ -5,4 +5,4 @@ a new system for detecting colours (AI-Assisted).
 
 Example:
 
-[![timage demo](assets/timage-demo.png)](assets/timage-demo.mp4)
+![timage demo](assets/timage-demo-img.png)
