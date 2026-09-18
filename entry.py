@@ -41,8 +41,6 @@ ISSUES: https://github.com/im-lemon/timage/issues/
         print(ht)
         exit(0)
 
-    cls()
-
     render(
         sys.argv[1]
     )
