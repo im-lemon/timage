@@ -23,13 +23,13 @@ else:
 Timage - A chafa-like image-displayer written in python.
         
 Timage is a chafa-like tool written in python, it uses code from my older project RenderTool (https://github.com/im-lemon/rendertool) alongside
-a new system for detecting colours (AI-Assisted), the timage.ps1 shell script aliasses timage to itself upon first run, so you can do:
+a new system for detecting colours (AI-Assisted), the timage.ps1 shell script puts itself on PATH, so you can do:
         
 timage <img-file.jpg>
 
 instead of:
 
-./timage <img-file.jpg> in that shell session.
+./timage <img-file.jpg>.
 
 Additional info:
 
