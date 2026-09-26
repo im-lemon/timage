@@ -39,7 +39,7 @@ ISSUES: https://github.com/im-lemon/timage/issues/
         """
 
         print(ht)
-        exit(0)
+        sys.exit(0)
 
     render(
         sys.argv[1]
